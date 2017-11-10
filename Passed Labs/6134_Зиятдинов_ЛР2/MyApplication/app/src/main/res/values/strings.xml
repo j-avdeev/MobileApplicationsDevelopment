@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ok">Ok</string>
+    <string name="hello_this_is_ios_calculator">Hello! This is IOS Calculator!</string>
+</resources>

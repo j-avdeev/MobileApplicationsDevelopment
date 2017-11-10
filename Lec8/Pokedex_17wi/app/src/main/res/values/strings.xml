@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string-array name="pokemon_names">
+        <item>Blastoise</item>
+        <item>Bulbasaur</item>
+        <item>Charmander</item>
+        <item>Golbat</item>
+        <item>Jigglypuff</item>
+        <item>Mewtwo</item>
+        <item>Pikachu</item>
+        <item>Poliwag</item>
+        <item>Psyduck</item>
+        <item>Slowpoke</item>
+        <item>Squirtle</item>
+        <item>Vulpix</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
