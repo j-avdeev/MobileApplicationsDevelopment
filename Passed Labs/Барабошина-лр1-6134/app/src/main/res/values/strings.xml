@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordApp</string>
+    <string name="input_text">Input Text</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="symbols">symbols</string>
+</resources>

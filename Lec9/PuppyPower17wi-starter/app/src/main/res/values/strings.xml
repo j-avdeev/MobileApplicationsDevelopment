@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PuppyViewer</string>
+
+    <string-array name="puppy_images">
+        <item>barney-and-clyde-01.jpg</item>
+        <item>barney-and-clyde-02.jpg</item>
+        <item>barney-and-clyde-03.jpg</item>
+        <item>barney-and-clyde-04.jpg</item>
+        <item>barney-and-clyde-05.jpg</item>
+        <item>barney-and-clyde-06.jpg</item>
+        <item>barney-and-clyde-07.jpg</item>
+        <item>barney-and-clyde-08.jpg</item>
+        <item>barney-and-clyde-09.jpg</item>
+        <item>barney-and-clyde-10.jpg</item>
+        <item>barney-and-clyde-11.jpg</item>
+        <item>barney-and-clyde-12.jpg</item>
+        <item>barney-and-clyde-01-large.jpg</item>
+        <item>barney-and-clyde-02-large.jpg</item>
+        <item>daisy-01.jpg</item>
+        <item>daisy-02.jpg</item>
+        <item>daisy-03.jpg</item>
+        <item>daisy-04.jpg</item>
+        <item>daisy-05.jpg</item>
+        <item>daisy-06.jpg</item>
+        <item>daisy-07.jpg</item>
+        <item>daisy-08.jpg</item>
+        <item>daisy-09.jpg</item>
+        <item>daisy-10.jpg</item>
+        <item>daisy-11.jpg</item>
+        <item>daisy-12.jpg</item>
+        <item>daisy-13.jpg</item>
+        <item>daisy-14.jpg</item>
+        <item>daisy-15.jpg</item>
+        <item>daisy-16.jpg</item>
+        <item>daisy-17.jpg</item>
+        <item>daisy-18.jpg</item>
+        <item>daisy-19.jpg</item>
+        <item>daisy-20.jpg</item>
+    </string-array>
+</resources>
