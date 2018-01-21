@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="action_settings">Reset Stats</string>
+	<string name="prompt">Choose an action below!</string>
+	
+	<string name="outcome_win">Win!</string>
+	<string name="outcome_loss">Loss!</string>
+	<string name="outcome_tie">Tie</string>
+	<string name="title_player_img">You</string>
+	<string name="title_ai_img">AI</string>
+	<string name="btn_next_round">Next round</string>
+    
+    
+</resources>

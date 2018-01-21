@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="calc_tv_lines_cnt">3</integer>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:divider="@drawable/divider"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:showDividers="middle"
+    tools:context=".activity.MyPreferencesActivity">
+
+    <ListPreference
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:defaultValue="1"
+        android:entries="@array/settings_degrees"
+        android:entryValues="@array/settings_degrees"
+        android:key="@string/pref_angles"
+        android:summary="@string/settings_degrees_summary"
+        android:title="@string/settings_degrees" />
+
+    <EditTextPreference
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:key="@string/pref_username"
+        android:summary="@string/settings_text_summary"
+        android:title="@string/settings_text" />
+
+    <SwitchPreference
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:defaultValue="false"
+        android:key="@string/pref_saveResults"
+        android:summary="@string/settings_switch_summary"
+        android:title="@string/settings_switch" />
+
+    <com.kizitonwose.colorpreference.ColorPreference
+        android:defaultValue="@color/settings_color"
+        android:key="@string/pref_color"
+        android:summary="@string/settings_color_summary"
+        android:title="@string/settings_color"
+        app:colorShape="circle"
+        app:numColumns="5"
+        app:showDialog="true" />
+</PreferenceScreen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="tail_color">#282828</color>
+    <color name="general_text_color">#9f9b9c</color>
+    <color name="divider_color">#8e8a8a</color>
+    <color name="font_color">#555555</color>
+    <!--colors buttons-->
+    <color name="background_color">#aaf2da</color>
+    <color name="purple">#ff3cef</color>
+    <color name="red_color">#ff0000</color>
+    <color name="yellow_color">#f8ff37</color>
+
+    <color name="settings_color">#43b4de</color>
+    <color name="settings_divider_color">#202020</color>
+    <color name="floating_action_button_background">#4c4c4c</color>
+    <color name="phone_action_bar_color">#a1e1cb</color>
+</resources>
